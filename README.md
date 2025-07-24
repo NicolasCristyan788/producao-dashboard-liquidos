@@ -23,9 +23,9 @@ Este sistema é um **painel interativo de controle de produção de líquidos**,
 ## 📁 Estrutura do Projeto
 
 📦 producao-dashboard-liquidos/
-├── main.py
-├── helpers/
-├── interface.py
+├── static/
+├── templates/
+├── app.py
 ├── planilhas/
 ├── README.md
 
